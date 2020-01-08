@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Comment
+1,K5FTW,441.62500,+,5,,88.5,88.5,23,NN,FM,5,"Fort Worth",
+2,W5JBP,442.50000,+,5,,88.5,88.5,23,NN,FM,5,"Dallas",

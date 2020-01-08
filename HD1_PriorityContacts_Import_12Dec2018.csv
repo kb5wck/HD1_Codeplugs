@@ -1,0 +1,664 @@
+No.,Call Type,Contacts Alias,City,Province,Country,Call ID
+1,Group Call,Local 9,,,,9
+2,Group Call,Tarrant Cty Metr,,Texas,USA,10
+3,Group Call,TX 3148,,Texas,USA,3148
+4,Group Call,Metro,,Texas,USA,2
+5,Group Call,XRF088 B,,,,88
+6,Group Call,BMTG 3148 Link,,,,9000
+7,Group Call,Southern Plains,,,,3175
+8,Group Call,Europe,,,,92
+9,Group Call,Cactus,,,,3185
+10,Group Call,WW 1,,,,1
+11,Group Call,NA 3,,,USA,3
+12,Group Call,WW English,,,,13
+13,Group Call,Nederland,,,,204
+14,Group Call,TAC310,,,,310
+15,Group Call,Belgium,,,,206
+16,Group Call,DCI Bridge,,,USA,3100
+17,Group Call,France 0,,,,208
+18,Group Call,Southeast Region,,,,3174
+19,Group Call,Spain,,,,214
+20,Private Call,Jory McIntosh,,Texas,USA,3148288
+21,Group Call,Hungary,,,,216
+22,Group Call,Chicago 2,Chicago,Illinois,USA,3166
+23,Group Call,Italia,,,,222
+24,Group Call,Chicago 1,Chicago,Illinois,USA,3181
+25,Group Call,Romania,,,,226
+26,Group Call,TRB06 Comm1,,,,3777215
+27,Group Call,UA English,,,United Emirates,113
+28,Group Call,Switzerland,,,,228
+29,Group Call,Czech Republic,,,,230
+30,Group Call,CA 3106,,California,USA,3106
+31,Group Call,Slovak,,,,231
+32,Group Call,IL 3117,,Illinois,USA,3117
+33,Group Call,Austria,,,,232
+34,Group Call,MA 3125,,Massachusetts,USA,3125
+35,Group Call,United Kingdom,,,,235
+36,Group Call,MI 3126,,Michigan,USA,3126
+37,Group Call,Denmark,,,,238
+38,Group Call,MN 3127,,Minnesota,USA,3127
+39,Group Call,Sweden,,,,240
+40,Group Call,OH 3139,,Ohio,USA,3139
+41,Group Call,Norway,,,,242
+42,Group Call,TN 3147,,Tennessee,USA,3147
+43,Group Call,Finland,,,,244
+44,Group Call,Texas Nexus,,Texas,USA,31488
+45,Group Call,Ukraine,,,,255
+46,Group Call,WA 3153,,Washington,USA,3153
+47,Group Call,Poland,,,,260
+48,Group Call,WI 3155,,Wisconsin,USA,3155
+49,Group Call,Deutschland,,,,262
+50,Group Call,Allstar Link,,,,3167
+51,Group Call,Portugal,,,,268
+52,Group Call,Midwest Regional,,,,3169
+53,Group Call,Canada,,,,302
+54,Group Call,TRB06 Comm2,,,,3777216
+55,Group Call,UA English 2,,,United Emirates,123
+56,Group Call,USA,,,USA,1776
+57,Group Call,TAC311,,,,311
+58,Group Call,XE,,,,334
+59,Group Call,TAC1,,,,8951
+60,Group Call,Israel,,,,425
+61,Group Call,Parrot,,,,9998
+62,Group Call,South Korea,,,,450
+63,Group Call,Audio Test,,,,9999
+64,Group Call,China,,,,454
+65,Group Call,Northeast Region,,,,3172
+66,Group Call,Australia,,,,505
+67,Group Call,Southwest Region,,,,3176
+68,Group Call,Thailand,,,,520
+69,Group Call,Mountain Regiion,,,,3177
+70,Group Call,South Africa,,,,655
+71,Group Call,EchoLnk/IRLP Lnk,,,,63951
+72,Group Call,BronxTRBO (NY),,NY,USA,444
+73,Group Call,Panama,,,,714
+74,Group Call,TAC312,,,,312
+75,Group Call,Brazil,,,,724
+76,Group Call,Chile,,,,730
+77,Group Call,test,,,,16777215
+78,Group Call,Venezuela,,,,734
+79,Group Call,FL 3112,,Florida,USA,3112
+80,Group Call,Uruguay,,,,748
+81,Private Call,Alan Schiller,,Texas,USA,3148088
+82,Group Call,Repeater Testing,,,,899
+83,Private Call,Wayne Wilson,,Wisconsin,USA,3148195
+84,Group Call,JOTA,,,,907
+85,Private Call,Hugh Underwood,,Texas,USA,3148564
+86,Group Call,German,,,,910
+87,Private Call,Steve Grantham,,Mississippi,USA,3128027
+88,Group Call,English,,,,913
+89,Private Call,Mary Grantham,,Mississippi,USA,3128103
+90,Group Call,Spanish,,,,914
+91,Private Call,Andrew Deithloff,,Texas,USA,3103330
+92,Group Call,Portuguese,,,,915
+93,Group Call,Disconnect,,,,4000
+94,Group Call,BM Facebook,,,,31648
+95,Group Call,French,,,,921
+96,Group Call,BM North Texas,,Texas,USA,31481
+97,Group Call,Dutch,,,,922
+98,Group Call,BM South Texas,,Texas,USA,31482
+99,Group Call,ArkLaTex,,,,31229
+100,Group Call,Nordic,,,,927
+101,Group Call,AR 3105,,Arkansas,USA,3105
+102,Group Call,Francophone,,,,937
+103,Group Call,LA 3122,,Louisiana,USA,3122
+104,Group Call,Noord Nederland,,,,2041
+105,Group Call,LA  ARES,,Louisiana,USA,312222
+106,Group Call,Midden Nederland,,,,2042
+107,Group Call,MS 3128,,MIssissippi,USA,3128
+108,Group Call,Zuid Nederland,,,,2043
+109,Group Call,AL 3101,,Alabama,USA,3101
+110,Group Call,Oost Nederland,,,,2044
+111,Group Call,GA 3113,,Georgia,USA,3113
+112,Group Call,Nederland Techta,,,,2045
+113,Group Call,KY 3121,,Kentucky,USA,3121
+114,Group Call,Belgium North,,,,2061
+115,Group Call,TAC 2,,,,8952
+116,Group Call,Belgium South,,,,2062
+117,Group Call,TAC 3,,,,8953
+118,Group Call,Belgium East,,,,2063
+119,Group Call,TAC 4,,,,8954
+120,Group Call,Belgium OnDemand,,,,2064
+121,Group Call,TAC 5,,,,8955
+122,Group Call,Belgium OnDemand,,,,2065
+123,Group Call,TAC 6,,,,8956
+124,Group Call,Belgium OnDemand,,,,2066
+125,Group Call,TAC 7,,,,8957
+126,Group Call,Belgium OnDemand,,,,2067
+127,Group Call,TAC 8,,,,8958
+128,Group Call,Belgium OnDemand,,,,2068
+129,Group Call,TAC 9,,,,8959
+130,Group Call,TAC 313,,,,313
+131,Group Call,Belgium OnDemand,,,,2069
+132,Group Call,TAC 314,,,,314
+133,Group Call,France Ile De Fr,,,,2080
+134,Group Call,TAC 315,,,,315
+135,Group Call,France Mediterra,,,,2081
+136,Group Call,TAC 316,,,,316
+137,Group Call,France Alpes 2,,,,2082
+138,Group Call,TAC 317,,,,317
+139,Group Call,France Midi Pyre,,,,2083
+140,Group Call,TAC 318,,,,318
+141,Group Call,France Est 4,,,,2084
+142,Group Call,TAC 319,,,,319
+143,Group Call,France Ouest,,,,2085
+144,Group Call,France Atlantiqu,,,,2086
+145,Group Call,WC Florida,,Florida,USA,31122
+146,Group Call,France Nord 7,,,,2087
+147,Group Call,TC Florida,,Florida,USA,31123
+148,Group Call,France Centre 8,,,,2088
+149,Group Call,SE Florida,,Florida,USA,31124
+150,Group Call,WW 91,,,,91
+151,Group Call,France DOM-TOM,,,,2089
+152,Group Call,NA 93,,,USA,93
+153,Group Call,EA1,,,,2141
+154,Group Call,Local 99,,,,99
+155,Group Call,EA2,,,,2142
+156,Group Call,EA3,,,,2143
+157,Group Call,Status,,,,5000
+158,Group Call,EA4,,,,2144
+159,Group Call,MD 3124,,Maryland,USA,3124
+160,Group Call,EA5,,,,2145
+161,Group Call,AK 3102,,Alaska,USA,3102
+162,Group Call,EA6,,,,2146
+163,Group Call,AZ 3104,,Arizona,USA,3104
+164,Group Call,EA7,,,,2147
+165,Group Call,CO 3108,,Colorado,USA,3108
+166,Group Call,EA8,,,,2148
+167,Group Call,CT 3109,,Connecticut,USA,3109
+168,Group Call,EA9,,,,2149
+169,Group Call,DE 3110,,Deleware,USA,3110
+170,Group Call,Hungary East,,,,2161
+171,Group Call,HI 3115,,Hawaii,USA,3115
+172,Group Call,Hungary West,,,,2162
+173,Group Call,ID 3116,,Idaho,USA,3116
+174,Group Call,Hungary North,,,,2163
+175,Group Call,IN 3118,,Indiana,USA,3118
+176,Group Call,Hungary South,,,,2164
+177,Group Call,IA 3119,,Iowa,USA,3119
+178,Group Call,Hungary Test,,,,2165
+179,Group Call,KS 3120,,Kansas,USA,3120
+180,Group Call,Local repeater,,,,2169
+181,Group Call,ME 3123,,Maine,USA,3123
+182,Group Call,Reg-Zona0,,,,2220
+183,Group Call,MO 3129,,Missouri,USA,3129
+184,Group Call,Reg-Zona1,,,,2221
+185,Group Call,MT 3130,,Montana,USA,3130
+186,Group Call,Reg-Zona2,,,,2222
+187,Group Call,NE 3131,,Nebraska,USA,3131
+188,Group Call,Reg-Zona3,,,,2223
+189,Group Call,NV 3132,,Nevada,USA,3132
+190,Group Call,Reg-Zona4,,,,2224
+191,Group Call,NH 3133,,New Hampshire,USA,3133
+192,Group Call,Reg-Zona5,,,,2225
+193,Group Call,NJ 3134,,New Jersey,USA,3134
+194,Group Call,Reg-Zona6,,,,2226
+195,Group Call,NM 3135,,New Mexico,USA,3135
+196,Group Call,Reg-Zona7,,,,2227
+197,Group Call,NY 3136,,New York,USA,3136
+198,Group Call,Reg-Zona8,,,,2228
+199,Group Call,NC 3137,,North Carolina,USA,3137
+200,Group Call,Reg-Zona9,,,,2229
+201,Group Call,ND 3138,,North Dakota,USA,3138
+202,Group Call,Schweiz Deutsch,,,,2280
+203,Group Call,OK 3140,,Oklahoma,USA,3140
+204,Group Call,Suisse Romande,,,,2281
+205,Group Call,OR 3141,,Oregon,USA,3141
+206,Group Call,Valais / Wallis,,,,2282
+207,Group Call,PA 3142,,Pennsylvania,USA,3142
+208,Group Call,Bern / Solothurn,,,,2283
+209,Group Call,RI 3144,,Rhode Island,USA,3144
+210,Group Call,Basel,,,,2284
+211,Group Call,SC 3145,,South Carolina,USA,3145
+212,Group Call,Aargau / Zentral,,,,2285
+213,Group Call,SD 3146,,South Dakota,USA,3146
+214,Group Call,Ticino,,,,2286
+215,Group Call,UT 3149,,Utah,USA,3149
+216,Group Call,Graubu00fcnden,,,,2287
+217,Group Call,VT 3150,,Vermont,USA,3150
+218,Group Call,Zu00fcrich,,,,2288
+219,Group Call,VA 3151,,Virginia,USA,3151
+220,Group Call,Ostschweiz,,,,2289
+221,Group Call,WV 3154,,West Virginia,USA,3154
+222,Group Call,Czech Crossconec,,,,2300
+223,Group Call,Wy 3156,,Wyoming,USA,3156
+224,Group Call,Bohemia,,,,2301
+225,Group Call,OKCent 401,,Oklahoma,USA,31401
+226,Group Call,Moravia,,,,2302
+227,Group Call,OKEast 402,,Oklahoma,USA,31402
+228,Group Call,Slovakia,,,,2311
+229,Group Call,OK 31403,,Oklahoma,USA,31403
+230,Group Call,OE-Master,,,,2320
+231,Group Call,MidAtlantic,,,,3173
+232,Group Call,Wien,,,,2321
+233,Group Call,RedCross,,,,4742
+234,Group Call,Atl-Metro,Atlanta,Georgia,USA,8
+235,Group Call,Salzburg,,,,2322
+236,Group Call,Niederoesterreic,,,,2323
+237,Group Call,Fusion,,,,3182
+238,Group Call,Oceania,,,,5
+239,Group Call,Burgenland,,,,2324
+240,Group Call,WW French,,,,11
+241,Group Call,Oberoesterreich,,,,2325
+242,Group Call,WW Spanish,,,,14
+243,Group Call,Steiermark,,,,2326
+244,Group Call,Tirol,,,,2327
+245,Group Call,DC 3111,,DC,USA,3111
+246,Group Call,Kaernten,,,,2328
+247,Group Call,MtnWest,,,,31063
+248,Group Call,Vorarlberg,,,,2329
+249,Group Call,NCalAllStar,,California,USA,31065
+250,Group Call,United Kingdom 4,,,,2350
+251,Group Call,SoCal 31066,,California,USA,31066
+252,Group Call,Chat,,,,2351
+253,Group Call,SoCal 31067,,California,USA,31067
+254,Group Call,Chat,,,,2352
+255,Group Call,NorCal 31068,,California,USA,31068
+256,Group Call,Chat,,,,2353
+257,Group Call,Hawaii 31150,,Hawaii,USA,31150
+258,Group Call,Ireland,,,,2354
+259,Group Call,OKTAC 31400,,Oklahoma,USA,31400
+260,Group Call,UA-All1,,,United Emirates,119
+261,Group Call,Scotland,,,,2355
+262,Group Call,UA-All2,,,United Emirates,129
+263,Group Call,Wales,,,,2357
+264,Group Call,Denmark Nordjyll,,,,2381
+265,Group Call,Hytera,,,,4639
+266,Group Call,Denmark Midtjyll,,,,2382
+267,Group Call,MetroATL,Atlanta,Georgia,USA,31131
+268,Group Call,Denmark Syddanma,,,,2383
+269,Group Call,TGIF,,,,31665
+270,Group Call,Denmark Copenhag,,,,2384
+271,Group Call,TAC 320,,,,30220
+272,Group Call,Denmark Sjaellan,,,,2385
+273,Group Call,TAC 321,,,,30221
+274,Group Call,Regional SM0,,,,2400
+275,Group Call,APRS,,,,302999
+276,Group Call,Regional SM1,,,,2401
+277,Group Call,Regional SM2,,,,2402
+278,Group Call,YOTA,,,,918
+279,Group Call,Regional SM3,,,,2403
+280,Group Call,Europe English,,,,923
+281,Group Call,Regional SM4,,,,2404
+282,Group Call,Regional SM5,,,,2405
+283,Group Call,WW Maritime,,,,9101
+284,Group Call,Regional SM6,,,,2406
+285,Group Call,Maritime Disaste,,,,3021911
+286,Group Call,NORDIC 17,,,,17
+287,Group Call,Regional SM7,,,,2407
+288,Group Call,NA 30,,,USA,30
+289,Group Call,SM Tactical,,,,2411
+290,Group Call,German 110,,,,110
+291,Group Call,XRF699N/YSF699,,,,2415
+292,Group Call,NORDIC 117,,,,117
+293,Group Call,Regional OH0,,,,2440
+294,Group Call,German 120,,,,120
+295,Group Call,Regional OH1,,,,2441
+296,Group Call,Spanish 124,,,,124
+297,Group Call,Regional OH2,,,,2442
+298,Group Call,NORDIC 127,,,,127
+299,Group Call,Regional OH3,,,,2443
+300,Group Call,Canada 302,,,Canada,302
+301,Group Call,Regional OH4,,,,2444
+302,Group Call,Regional OH5,,,,2445
+303,Group Call,Regional OH6,,,,2446
+304,Group Call,Regional OH7,,,,2447
+305,Group Call,Regional OH8,,,,2448
+306,Group Call,Regional OH9,,,,2449
+307,Group Call,Russia Global,,,,2501
+308,Group Call,XRF250A Bridge,,,,2502
+309,Group Call,DSTAR-SU / 24009,,,,2503
+310,Group Call,Ukraine bridge D,,,,2555
+311,Group Call,Emergency Ukrain,,,,2559
+312,Group Call,Sachsen-Anhalt/M,,,,2620
+313,Group Call,Berlin/Brandenbu,,,,2621
+314,Group Call,Hamburg/Schleswi,,,,2622
+315,Group Call,Niedersachsen/Br,,,,2623
+316,Group Call,Nordrhein-Westfa,,,,2624
+317,Group Call,Rheinland-Pfalz/,,,,2625
+318,Group Call,Hessen,,,,2626
+319,Group Call,Baden-Wu00fcrtte,,,,2627
+320,Group Call,Bayern,,,,2628
+321,Group Call,Sachsen/Thu00fcr,,,,2629
+322,Group Call,Regional North,,,,2681
+323,Group Call,Regional Center,,,,2682
+324,Group Call,Capital,,,,2683
+325,Group Call,South,,,,2684
+326,Group Call,Algarve,,,,2685
+327,Group Call,Azores,,,,2686
+328,Group Call,Madeira Is.,,,,2687
+329,Group Call,Canada English (,,,,3026
+330,Group Call,Canada Francais ,,,,3027
+331,Group Call,USA - Nationwide,,,,3100
+332,Group Call,XE 1,,,,3341
+333,Group Call,XE 2,,,,3342
+334,Group Call,XE 3,,,,3343
+335,Group Call,Berlin-Brandenbu,,,,4016
+336,Group Call,Switzerland Germ,,,,4060
+337,Group Call,Switzerland Fren,,,,4061
+338,Group Call,Switzerland Ital,,,,4062
+339,Group Call,Bern / Solothurn,,,,4063
+340,Group Call,Basel,,,,4064
+341,Group Call,Aargau / Zentral,,,,4065
+342,Group Call,Ostschweiz,,,,4069
+343,Group Call,Norway,,,,4242
+344,Group Call,Ref-ITA,,,,4250
+345,Group Call,Ref-ITA-Zona1,,,,4251
+346,Group Call,Ref-ITA-Zona2,,,,4252
+347,Group Call,Ref-ITA-Zona3,,,,4253
+348,Group Call,Ref-ITA-Zona4,,,,4254
+349,Group Call,Ref-ITA-Zona5,,,,4255
+350,Group Call,Ref-ITA-Zona6,,,,4256
+351,Group Call,Ref-ITA-Zona7,,,,4257
+352,Group Call,Ref-ITA-Zona8,,,,4258
+353,Group Call,Ref-ITA-Zona9,,,,4259
+354,Group Call,Ref-ITA-Zona0,,,,4260
+355,Group Call,Poland (260),,,,4280
+356,Group Call,Poland Tech (260,,,,4281
+357,Group Call,France 0,,,,4300
+358,Group Call,France Mediterra,,,,4301
+359,Group Call,France Alpes 2,,,,4302
+360,Group Call,France Midi Pyre,,,,4303
+361,Group Call,France Est 4,,,,4304
+362,Group Call,France Ouest,,,,4305
+363,Group Call,France Atlantiqu,,,,4306
+364,Group Call,France Nord 7,,,,4307
+365,Group Call,France Centre 8,,,,4308
+366,Group Call,France DOM-TOM 9,,,,4309
+367,Group Call,France Ile De Fr,,,,4310
+368,Group Call,France/DCS033C 1,,,,4316
+369,Group Call,France/XRF067C 1,,,,4317
+370,Group Call,Canada English,,,,4326
+371,Group Call,Canada Francais,,,,4327
+372,Group Call,XRF007 B,,,,4370
+373,Group Call,United Kingdom,,,,4400
+374,Group Call,Chat,,,,4401
+375,Group Call,Chat,,,,4402
+376,Group Call,Chat,,,,4403
+377,Group Call,Ireland,,,,4404
+378,Group Call,Scotland,,,,4405
+379,Group Call,Wales,,,,4407
+380,Group Call,S.West,,,,4410
+381,Group Call,S.East,,,,4411
+382,Group Call,North West,,,,4412
+383,Group Call,Ireland Chat,,,,4414
+384,Group Call,Scotland Chat,,,,4415
+385,Group Call,North East,,,,4416
+386,Group Call,Wales Chat,,,,4417
+387,Group Call,Midlands,,,,4418
+388,Group Call,East of England,,,,4419
+389,Group Call,M62,,,,4426
+390,Group Call,Nederland,,,,4500
+391,Group Call,Noord Nederland,,,,4501
+392,Group Call,Midden Nederland,,,,4502
+393,Group Call,Zuid Nederland,,,,4503
+394,Group Call,Oost Nederland,,,,4504
+395,Group Call,Florida,,,,4600
+396,Group Call,Georgia,,,,4601
+397,Group Call,North Carolina,,,,4602
+398,Group Call,Texas,,,,4603
+399,Group Call,Mi5-STATEWIDE1 (,,,,4636
+400,Group Call,Mi5-STATEWIDE2 (,,,,4637
+401,Group Call,Mi5-EVENT (31263,,,,4638
+402,Group Call,USA - Nationwide,,,,4639
+403,Group Call,USA - Area 0,,,,4640
+404,Group Call,USA - Area 1,,,,4641
+405,Group Call,USA - Area 2,,,,4642
+406,Group Call,USA - Area 3,,,,4643
+407,Group Call,USA - Area 4,,,,4644
+408,Group Call,USA - Area 5,,,,4645
+409,Group Call,USA - Area 6,,,,4646
+410,Group Call,USA - Area 7,,,,4647
+411,Group Call,USA - Area 8,,,,4648
+412,Group Call,USA - Area 9,,,,4649
+413,Group Call,Belgium,,,,4750
+414,Group Call,Belgi Noord,,,,4751
+415,Group Call,Belgique Sud,,,,4752
+416,Group Call,Belgien Ost,,,,4753
+417,Group Call,Hungary,,,,4770
+418,Group Call,XE (334),,,,4790
+419,Group Call,XE 1 (3341),,,,4791
+420,Group Call,XE 2 (3342),,,,4792
+421,Group Call,XE 3 (3343),,,,4793
+422,Group Call,XE Experimental,,,,4799
+423,Group Call,Australia (505),,,,4805
+424,Group Call,Australia (5050),,,,4806
+425,Group Call,Norway,,,,4860
+426,Group Call,XRF5000D (4806),,,,5050
+427,Group Call,Australian capit,,,,5051
+428,Group Call,Australia New So,,,,5052
+429,Group Call,Australia Victor,,,,5053
+430,Group Call,Australia Queens,,,,5054
+431,Group Call,South Australia,,,,5055
+432,Group Call,Western Australi,,,,5056
+433,Group Call,Australia Tasman,,,,5057
+434,Group Call,Australia Northe,,,,5058
+435,Group Call,VK-DMR-ROOM wire,,,,5059
+436,Group Call,Panama City,,,,7141
+437,Group Call,Colon,,,,7142
+438,Group Call,CE0,,,,7300
+439,Group Call,CE1,,,,7301
+440,Group Call,CE2,,,,7302
+441,Group Call,CE3,,,,7303
+442,Group Call,CE4,,,,7304
+443,Group Call,CE5,,,,7305
+444,Group Call,CE6,,,,7306
+445,Group Call,CE7,,,,7307
+446,Group Call,CE8,,,,7308
+447,Group Call,CE9,,,,7309
+448,Group Call,XLX177-Regione0,,,,8500
+449,Group Call,XLX177-Regione1,,,,8501
+450,Group Call,XLX177-Regione2,,,,8502
+451,Group Call,XLX177-Regione3,,,,8503
+452,Group Call,XLX177-Regione4,,,,8504
+453,Group Call,XLX177-Regione5,,,,8505
+454,Group Call,XLX177-Regione6,,,,8506
+455,Group Call,XLX177-Regione7,,,,8507
+456,Group Call,XLX177-Regione8,,,,8508
+457,Group Call,XLX177-Regione9,,,,8509
+458,Group Call,XLX177-Italia,,,,8515
+459,Group Call,Crossroads State,,,,8710
+460,Group Call,XRF007 B,,,,9107
+461,Group Call,Emcom EU,,,,9112
+462,Group Call,XRF250B Bridge,,,,9502
+463,Group Call,*RUSSIA* (EchoLi,,,,9504
+464,Group Call,Bridge to Radioc,,,,9505
+465,Group Call,Emcom US,,,,9911
+466,Group Call,Parrot,,,,9990
+467,Group Call,XLX145/DStar,,,,20206
+468,Group Call,WiresX Room Gree,,,,20208
+469,Group Call,Regio Keistad,,,,20421
+470,Group Call,Regio IJsselmond,,,,20441
+471,Group Call,YSF444,,,,20494
+472,Group Call,Belgium ON4TOP Y,,,,20601
+473,Group Call,Belgium North YS,,,,20602
+474,Group Call,Corsica,,,,20821
+475,Group Call,Lille Local,,,,20859
+476,Group Call,UA 1,,,,22801
+477,Group Call,UA 2,,,,22802
+478,Group Call,UA 3,,,,22803
+479,Group Call,UA 4,,,,22804
+480,Group Call,XRF490 B,,,,22810
+481,Group Call,S.West,,,,23500
+482,Group Call,S.East,,,,23510
+483,Group Call,N.West,,,,23520
+484,Group Call,Ireland Chat,,,,23540
+485,Group Call,Scotland Chat,,,,23550
+486,Group Call,North East,,,,23560
+487,Group Call,M62 Corridor,,,,23562
+488,Group Call,Wales Chat,,,,23570
+489,Group Call,Midlands,,,,23580
+490,Group Call,East of England,,,,23590
+491,Group Call,Regional OH3 Tam,,,,24431
+492,Group Call,Regional OH3 Lah,,,,24432
+493,Group Call,Kyiv city,,,,25501
+494,Group Call,Vinnyts`ka obl,,,,25502
+495,Group Call,Volyns`ka obl,,,,25503
+496,Group Call,Dnirpo obl,,,,25504
+497,Group Call,Donets`ka obl,,,,25505
+498,Group Call,Zhytomyrs`ka obl,,,,25506
+499,Group Call,Zakarpats`ka obl,,,,25507
+500,Group Call,Zaporiz`ka obl,,,,25508
+501,Group Call,Ivano frankivs`k,,,,25509
+502,Group Call,Kyivs`ka obl,,,,25510
+503,Group Call,Crimea,,,,25511
+504,Group Call,Kropyvnyts`kyj o,,,,25512
+505,Group Call,Lugans`ka obl,,,,25513
+506,Group Call,Lvivs`ka obl,,,,25514
+507,Group Call,Mykolaivs`ka obl,,,,25515
+508,Group Call,Odes`ka obl,,,,25516
+509,Group Call,Poltavs`ka obl,,,,25517
+510,Group Call,Rivnens`ka obl,,,,25518
+511,Group Call,Sums`ka obl,,,,25519
+512,Group Call,Ternopils`ka obl,,,,25520
+513,Group Call,Kharkivs`ka obl,,,,25521
+514,Group Call,Khersons`ka obl,,,,25522
+515,Group Call,Khmel`nyts`ka ob,,,,25523
+516,Group Call,Cherkas`ka obl,,,,25524
+517,Group Call,Chernigivs`ka ob,,,,25525
+518,Group Call,Chernivets`ka ob,,,,25526
+519,Group Call,Sevastopol,,,,25527
+520,Group Call,Emergency Zakarp,,,,25599
+521,Group Call,Poland Tech,,,,26040
+522,Group Call,Chaoswelle,,,,26223
+523,Group Call,Canada BC 1,,,,30271
+524,Group Call,Canada BC 2,,,,30272
+525,Group Call,Alabama Link,,,,31010
+526,Group Call,DMR Users,,,,31012
+527,Group Call,Cal 1,,,,31061
+528,Group Call,Mountain West,,,,31062
+529,Group Call,Mountain West 1,,,,31063
+530,Group Call,NorCal AllStar,,,,31065
+531,Group Call,SoCal,,,,31066
+532,Group Call,SoCal 1,,,,31067
+533,Group Call,NorCal,,,,31068
+534,Group Call,NorCal 1,,,,31069
+535,Group Call,VCDRC,,,,31070
+536,Group Call,Alert Radio,,,,31079
+537,Group Call,Hytera USA,,,,31089
+538,Group Call,USA - Area 0 464,,,,31090
+539,Group Call,USA - Area 1 464,,,,31091
+540,Group Call,USA - Area 2 464,,,,31092
+541,Group Call,USA - Area 3 464,,,,31093
+542,Group Call,USA - Area 4 464,,,,31094
+543,Group Call,USA - Area 5 464,,,,31095
+544,Group Call,USA - Area 6 464,,,,31096
+545,Group Call,USA - Area 7 464,,,,31097
+546,Group Call,USA - Area 8 464,,,,31098
+547,Group Call,USA - Area 9 464,,,,31099
+548,Group Call,FCDMR,,,,31121
+549,Group Call,MNDMR,,,,31127
+550,Group Call,BYRG,,,,31201
+551,Group Call,XRF210 D,,,,31210
+552,Group Call,XRF054 C,,,,31254
+553,Group Call,Mi5-STATEWIDE1,,,,31261
+554,Group Call,Mi5-STATEWIDE2,,,,31262
+555,Group Call,Mi5-EVENT1,,,,31263
+556,Group Call,Mi5-EVENT3,,,,31265
+557,Group Call,SNARS 6968,,,,31268
+558,Group Call,WMTG,,,,31269
+559,Group Call,AARG,,,,31274
+560,Group Call,XRF813 A,,,,31281
+561,Group Call,MPRG,,,,31301
+562,Group Call,Nevada 1,,,,31321
+563,Group Call,Las Vegas,,,,31327
+564,Group Call,SNARS (Reno/Taho,,,,31328
+565,Group Call,SNARS 2,,,,31329
+566,Group Call,NJPAAsterisk,,,,31340
+567,Group Call,New Jersey South,,,,31341
+568,Group Call,Upstate NY,,,,31361
+569,Group Call,Bronx TRBO,,,,31362
+570,Group Call,Tristate,,,,31420
+571,Group Call,Pennsylvania Tac,,,,31421
+572,Group Call,Texas 1,,,,31481
+573,Group Call,WICEN,,,,50566
+574,Group Call,VK2GP-ND wires-x,,,,50591
+575,Group Call,VK3KAY-ROOM wire,,,,50592
+576,Group Call,YSF001 wires-x,,,,50593
+577,Group Call,YSF001,,,,50599
+578,Group Call,Montevideo,,,,74801
+579,Group Call,Montevideo,,,,74802
+580,Group Call,Artigas,,,,74803
+581,Group Call,Canelones,,,,74804
+582,Group Call,Cerro Largo,,,,74805
+583,Group Call,Colonia,,,,74806
+584,Group Call,Durazno,,,,74807
+585,Group Call,Flores,,,,74808
+586,Group Call,Florida,,,,74809
+587,Group Call,Lavalleja,,,,74810
+588,Group Call,Maldonado,,,,74811
+589,Group Call,Paysandu00fa,,,,74812
+590,Group Call,R Negro,,,,74813
+591,Group Call,Rivera,,,,74814
+592,Group Call,Rocha,,,,74815
+593,Group Call,Salto,,,,74816
+594,Group Call,San Josu00e9,,,,74817
+595,Group Call,Soriano,,,,74818
+596,Group Call,,,,,74819
+597,Group Call,Treinta y Tres,,,,74820
+598,Group Call,CX TAC 1,,,,74830
+599,Group Call,CX TAC 2,,,,74840
+600,Group Call,PAPA*,,,,97272
+601,Group Call,DV4 Chat,,,,202011
+602,Group Call,DMO Chat,,,,202012
+603,Group Call,Room Fontenay,,,,208003
+604,Group Call,Room Malmaison,,,,208007
+605,Group Call,Room Paris 15,,,,208075
+606,Group Call,Room Nangis,,,,208077
+607,Group Call,Room Villebon,,,,208091
+608,Group Call,Room Villebon2,,,,208093
+609,Group Call,Room Come Belle ,,,,208201
+610,Group Call,Room Planfoy,,,,208204
+611,Group Call,Room Saint-Peray,,,,208205
+612,Group Call,Room Les Andrieu,,,,208209
+613,Group Call,Room Tour Crieu,,,,208301
+614,Group Call,Room Toulouse,,,,208302
+615,Group Call,Room F1ULQ,,,,208404
+616,Group Call,Room Dangolsheim,,,,208405
+617,Group Call,Room La Rochelle,,,,208617
+618,Group Call,Reunion Island,,,,208647
+619,Group Call,Room Pic Neulos,,,,208766
+620,Group Call,Room Perpignan,,,,208799
+621,Group Call,Room Auneuil,,,,208900
+622,Group Call,Room Lille,,,,208905
+623,Group Call,Room Mesnil/Bull,,,,208922
+624,Group Call,Room Nancy,,,,208954
+625,Group Call,Room Valencienne,,,,208959
+626,Group Call,Room Boulogne,,,,208962
+627,Group Call,Room Paris,,,,208980
+628,Group Call,Room Pontarlier,,,,208990
+629,Group Call,Room Verbier,,,,228111
+630,Group Call,XRF040 A,,,,268940
+631,Group Call,XRF040 B,,,,268941
+632,Group Call,XRF789 B,,,,268942
+633,Group Call,Connecticut PVRA,,,,310991
+634,Group Call,Parrot,,,,310997
+635,Group Call,USA - Tennessee,,,,314700
+636,Group Call,NASA,,,,316272
+637,Group Call,JSC,,,,316273
+638,Group Call,Room Saint-Benoi,,,,647010
+639,Group Call,Reunion Island,,,,647647
+640,Group Call,XRF724 B,,,,724942
+641,Group Call,XRF724 C,,,,724943
+642,Group Call,Russia / Ivanovo,,,,950600
+643,Group Call,Russia / RT9K,,,,950601
+644,Group Call,Russia / RT9K / ,,,,950602
+645,Group Call,Russia / Moscow ,,,,950603
+646,Group Call,Russia / Moscow ,,,,950604
+647,Group Call,Russia / Ekateri,,,,950605
+648,Group Call,Russia / Saint P,,,,950606
+649,Group Call,Russia / Verkhna,,,,950607
+650,Group Call,Russia / Kalinin,,,,950608
+651,Group Call,Russia / Syktyvk,,,,950609
+652,Group Call,Russia / Chelyab,,,,950610
+653,Group Call,Russia / Moscow ,,,,950611
+654,Group Call,Russia / Omsk,,,,950612
+655,Group Call,PI2NOS,,,,2049125
+656,Group Call,XRF088 A,,,,2049881
+657,Group Call,XRF088 B,,,,2049882
+658,Group Call,France/DCS033C 1,,,,2080332
+659,Group Call,France/XRF067C 1,,,,2080673
+660,Group Call,WIRESX-Room-ITA,,,,2229192
+661,Group Call,YSF-BM2221,,,,2229193
+662,Group Call,NEARC,,,,3103827
+663,Group Call,XRF740 C,,,,5059742
