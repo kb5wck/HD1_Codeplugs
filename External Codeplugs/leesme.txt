@@ -1,0 +1,19 @@
+Dit bestand hoort bij de HD1 Ailunce Codeplug.
+
+In deze codeplug vind je  de NL 2m en 70cm DMR en analoge repeaters, en de DMR Simplex kanalen.
+De codeplug is gemaakt met de HD1 v1.87 CPS software van Retevis, mijn porto heeft firmware 1.4.6.
+De software kan je downloaden van de Retevis website: http://www.retevis.com/hd1-resources/
+
+Vul zelf je DMR-ID in de CPS software: Basic Setting -> ID Setting voor je de codeplug op je porto installeert.
+
+Op- en aanmerkingen graag via email: pa1lex@veron.nl
+
+29 juni 2018 - Ailunce HD1 Codeplug v2.2p.tw
+- PISTAR Hotspot Channel toegevoegd op Channel No. 1, Simplex 438,8 MHZ ColorCode 1 ivm aanschaf Jumbospot, meer info op http://radioaficion.com/news/jumbo-spot-mmdvm-review/
+
+21 mei 2018 - Ailunce HD1 Codeplug v2.1p.tw
+- codeplug opgeschoond en namen gefatsoeneerd
+- 2m DMR simplex kanalen toegevoegd ivm aanschaf Motorola DM4600 via https://pi4amf.nl/motorola-dm4600vhf-project/
+- repeatergegevens bijgewerkt volgens lijsten https://www.hamnieuws.nl/repeaters/dmr-repeaters/
+
+
